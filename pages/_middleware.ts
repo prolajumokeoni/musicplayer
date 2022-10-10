@@ -4,8 +4,8 @@ const signedinPages = ['/', '/playList', '/library']
 
 export default function middleware(req) {
 	 if(signedinPages.find((p) => p === req.nextUrl.pathname)) {
-		const token = req.cookies.TRAX_ACESS_TOKEN
-		if(!token){
+		const token = req.cookies.TRAX_ACCESS_TOKEN
+		if(!token) {
 			return NextResponse.redirect('/signin')
 		}
 	 }

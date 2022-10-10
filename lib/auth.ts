@@ -3,7 +3,7 @@ import { NextApiRequest, NextApiResponse } from 'next';
 import prisma from './prisma';
 
 
-export const validationRoute = (handler) => {
+export const validateRoute = (handler) => {
 	return async(req: NextApiRequest, res: NextApiResponse) => {
 			const token = req.cookies.TRAX_ACCESS_TOKEN
 			if (token) {
