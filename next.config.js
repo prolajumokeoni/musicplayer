@@ -1,5 +1,4 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
+module.exports = {
   reactStrictMode: true,
   typescript: {
     // !! WARN !!
@@ -14,5 +13,3 @@ const nextConfig = {
     ignoreDuringBuilds: true,
   },
 }
-
-module.exports = nextConfig
