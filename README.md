@@ -14,7 +14,7 @@
     - [Install](#install)
     - [Usage](#usage)
   - [👥 Author ](#-author-)
-    - [**Oni Olajumuke Priscilla**](#oni-olajumuke-priscilla)
+    - [**Oni Olajumoke Priscilla**](#oni-olajumoke-priscilla)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -56,10 +56,10 @@
 ### Key Features <a name="key-features"></a>
  
 
-- **[Player Bar]**
-- **[Home page]** 
+- **Player Bar**
+- **Home page** 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- LIVE DEMO -->
 
@@ -68,7 +68,7 @@
 
 - [Live Demo Link](https://musicplayer-d1kfi5ajh-prolajumokeoni.vercel.app/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- GETTING STARTED -->
 
@@ -81,9 +81,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-
-``` Node
-``` 
+`Node` 
 
 ### Setup
 
@@ -105,30 +103,31 @@ To run the project, execute the following command:
  
 ` npm run dev  or yarn dev`
 
+Signin Credentials:  
 Username: user@test.com
 Password: password
 
 ## 👥 Author <a name="authors"></a>
  
 
-### **Oni Olajumuke Priscilla**
+### **Oni Olajumoke Priscilla**
 
 - Github [@githubhandle](https://github.com/prolajumokeoni)
 - Twitter [@twitterhandle](https://twitter.com/prolajumokeoni)
 - LinkedIn [@LinkedIn](https://www.linkedin.com/in/prolajumokeoni)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
  
 
-- [ ] **[Responsive layout]**
-- [ ] **[Create Search component]**
-- [ ] **[Create playlist]**
+- [ ] **Responsive layout**
+- [ ] **Create Search component**
+- [ ] **Create playlist**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- CONTRIBUTING -->
 
@@ -138,26 +137,24 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
+## ⭐️ Show your support <a name="support"></a> 
 
 If you like this project kindly give it a star ⭐️
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
  
 
-I would like to thank Frontend Masters and Scott Moss for this great (course)[https://frontendmasters.com/courses/fullstack-app-next/]
+I would like to thank Frontend Masters and Scott Moss for this great [course](https://frontendmasters.com/courses/fullstack-app-next/)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
  
