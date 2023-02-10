@@ -8,6 +8,7 @@
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
+  - [🎥  Live Video ](#--live-video-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -66,9 +67,11 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
  
 
-- [Live Demo Link](https://musicplayer-d1kfi5ajh-prolajumokeoni.vercel.app/)
+- [Live Demo Link](https://musicplayer-git-musicplayer-prolajumokeoni.vercel.app/signin)
 
+## 🎥  Live Video <a name="live-video"></a>
 <p align="right"><a href="#readme-top">back to top</a></p>
+- [Live Video Link](https://loom.com/share/9d85686235e84273a951196583a665a3)
 
 <!-- GETTING STARTED -->
 
